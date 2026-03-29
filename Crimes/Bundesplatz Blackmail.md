@@ -21,3 +21,17 @@ A scrambled threat message references a timed action at `Bundesplatz`, but the w
 
 ## Possible Finale
 A chaotic confrontation during a partial evacuation at `Bundesplatz`, with the team trying to identify the real device among fake ones.
+
+## Act Structure
+
+### Act 1
+`The Mercenary` scouts `Bundesplatz`, nearby security routines, and public event movement around the federal quarter.
+
+### Act 2
+He acquires forged authority, communications equipment, and device components that could also support sabotage, infiltration, or robbery.
+
+### Act 3
+He positions decoy devices and prepares a false panic event or ransom trigger that finally reveals `Bundesplatz` as the real target.
+
+### Act 4
+The group faces him during the live blackmail operation at `Bundesplatz`.

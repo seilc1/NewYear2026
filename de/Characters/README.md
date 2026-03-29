@@ -1,13 +1,13 @@
-# Characters
+# Charaktere
 
-Use this folder for all people relevant to the session.
+Nutze diesen Ordner fuer alle Personen, die fuer die Session relevant sind.
 
-- Player character notes and section backgrounds
-- Major NPCs from the police department
-- Suspects, witnesses, victims, and side characters
-- Parody characters based on `Police Academy`
+- Spielercharakter-Hinweise und Abteilungshintergruende
+- Wichtige NPCs aus der Polizeibehoerde
+- Verdaechtige, Zeugen, Opfer und Nebenfiguren
+- Parodiefiguren auf Basis von `Police Academy`
 
-Player-character material:
+Material zu Spielercharakteren:
 
 - `Player Characters/README.md`
 - `Player Characters/Luca Baumann.md`
@@ -15,7 +15,7 @@ Player-character material:
 - `Player Characters/Timon Keller.md`
 - `Player Characters/Samira Aebi.md`
 
-Current key NPC files:
+Aktuelle wichtige NPC-Dateien:
 
 - `Eric Lassard.md`
 - `Thaddeus Harris.md`
@@ -25,7 +25,7 @@ Current key NPC files:
 - `Larvell Jones.md`
 - `Moses Hightower.md`
 
-Swiss National Bank Robbery scenario witnesses:
+Zeugen fuer das Szenario zum Raub der Schweizerischen Nationalbank:
 
 - `Bruno Moser.md`
 - `Sabine Aellig.md`

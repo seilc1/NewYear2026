@@ -4,7 +4,9 @@
 
 It is 7 AM on 31. December 2026. The player characters are sitting in a meeting room in the main police department after receiving an emergency pager message requiring their attendance.
 
-The four player characters are all part of the same police department, but from different sections, and they do not know each other personally.
+The four player characters are the Bern police department's improvised `B team`: rookie officers from different sections who do not know each other personally.
+
+Each rookie was pushed into the assignment because their normal section is busy, their section head could spare exactly one junior officer, and Harris has no better options left.
 
 The meeting begins with all four characters waiting at the table for something to happen.
 
@@ -16,10 +18,10 @@ Lassard leaves the room. Behind him stands the smaller deputy police chief Thadd
 
 After a brief pause he continues:
 
-> "Let's cut the crap and get to the point. An hour ago a CCTV camera detected the famous criminal `The Mercenary` entering the city. That means shit is going to happen soon. Unfortunately with the big concert and the ongoing police operation all our capable police officers are busy, leaving you bunch as the only available officers. Your task is to prevent `The Mercenary` from completing his objective, whatever it is, and have him put into custody. But to be honest: looking at you people, I'm happy if you just go home and don't make things worse. Any questions?"
+> "Let's cut the crap and get to the point. An hour ago a CCTV camera detected the famous criminal `The Mercenary` entering the city. That means shit is going to happen soon. Unfortunately the big concert, the ongoing operation, and every officer I would have preferred to send are already busy, so what I've got left is this magnificent `B team` of section rookies. Your task is to prevent `The Mercenary` from completing his objective, whatever it is, and have him put into custody. But to be honest: looking at you people, I'm happy if you just go home and don't make things worse. Any questions?"
 
 ## Purpose
-- Introduce the team and establish that they are strangers from different police sections
+- Introduce the team and establish that they are rookie strangers from different police sections
 - Set the parody tone through Lassard and Harris
 - Deliver the main case hook with `The Mercenary`
 - Establish the big concert as a ticking-clock background event

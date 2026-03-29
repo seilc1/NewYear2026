@@ -21,3 +21,17 @@ Repeated failures in the same district show signs of deliberate tampering rather
 
 ## Possible Finale
 A confrontation near the lower river district while lights flicker, alarms fail, and the team loses radio contact at the worst possible moment.
+
+## Act Structure
+
+### Act 1
+`The Mercenary` studies infrastructure routes, lower-city access, and service connections in the `Mattequartier`.
+
+### Act 2
+He acquires sabotage tools, communications gear, and forged access items that still fit other crime theories.
+
+### Act 3
+He triggers or prepares a controlled failure in the lower district, revealing that the extortion plan depends on the `Mattequartier` network.
+
+### Act 4
+The group confronts him during the staged infrastructure disruption in the riverside district.

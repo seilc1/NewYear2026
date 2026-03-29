@@ -21,3 +21,17 @@ An unusual technical case and antenna fragments are found near the terrace after
 
 ## Possible Finale
 A race across the terrace and surrounding stair routes as the team tries to stop a remote trigger before a public ceremony begins.
+
+## Act Structure
+
+### Act 1
+`The Mercenary` surveys sightlines, terrace access, and elevated routes around `Bern Minster`.
+
+### Act 2
+He gathers technical equipment, concealment gear, and forged access material that could fit multiple sabotage or infiltration plans.
+
+### Act 3
+He tests or positions the signal setup on the terrace, revealing the `Muensterplattform` as the final operational site.
+
+### Act 4
+The group faces him during the live signal or trigger operation at the Minster terrace.
