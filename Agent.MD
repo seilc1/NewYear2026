@@ -27,6 +27,15 @@ This repository contains the Sylvester.RolePlay project, designed to support a s
 - Use real Bern locations as the backdrop for investigations, interviews, chases, police mishaps, and comic set pieces
 - Crime-solving remains the core structure of the session even when scenes become absurd and comedic
 
+## Act Structure Rules
+- The roleplaying session should be structured over 4 acts
+- Act 4 is always the final showdown where the group faces `The Mercenary` at the actual crime location
+- Acts 1 to 3 focus on the group gathering information about `The Mercenary` in order to deduce which crime he is actually planning
+- In each of Acts 1 to 3, `The Mercenary` should prepare one specific aspect of the crime, such as reconnaissance, gathering tools, recruiting helpers, securing access, or preparing a prerequisite event
+- The preparations in Acts 1 to 3 should overlap across multiple crime options so the evidence stays ambiguous until late in the story
+- Only after Act 3 should the group be able to confidently deduce which exact crime `The Mercenary` plans to commit
+- Every crime option should therefore share similar preparation elements, but resolve into a distinct final target and showdown location
+
 ## Canonical Opening Setup
 - The session opens at 07:00 on 31.12.2026 in a meeting room of the main police department in Bern
 - The four player characters have been called in by emergency pager message and do not know each other personally, even though they all belong to the same police department in different sections

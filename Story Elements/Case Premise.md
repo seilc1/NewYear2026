@@ -11,6 +11,13 @@ At the same time, the known criminal `The Mercenary` has entered the city. The t
 - The villain's motive and target are unknown at the start
 - Public chaos can escalate quickly in crowded Bern locations
 
+## Investigation Structure
+- The case unfolds over 4 acts
+- In Acts 1 to 3, the team uncovers `The Mercenary`'s preparations piece by piece
+- Those preparations should initially fit multiple possible crimes in Bern Old Town
+- Only after Act 3 should the group be able to determine the exact objective
+- Act 4 is the final confrontation at the true crime location
+
 ## Tone Target
 - Crime-solving first
 - `Police Academy` parody throughout

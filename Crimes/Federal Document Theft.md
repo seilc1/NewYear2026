@@ -21,3 +21,17 @@ A courier route is altered at the last minute by someone using authority that ap
 
 ## Possible Finale
 A tense intercept at a service entrance or archive corridor near the federal quarter before the documents leave the Old Town.
+
+## Act Structure
+
+### Act 1
+`The Mercenary` observes courier routines, official access routes, and federal building procedures in the government quarter.
+
+### Act 2
+He acquires forged credentials, communications tools, and carrying equipment that could also support robbery or sabotage.
+
+### Act 3
+He manipulates a courier handoff or insider contact, revealing that the true objective is sensitive federal material.
+
+### Act 4
+The group confronts him at the service route or archive exit during the theft attempt.

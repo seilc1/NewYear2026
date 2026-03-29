@@ -12,3 +12,11 @@ Current key NPC files:
 - `Eric Lassard.md`
 - `Thaddeus Harris.md`
 - `The Mercenary.md`
+
+Swiss National Bank Robbery scenario witnesses:
+
+- `Bruno Moser.md`
+- `Sabine Aellig.md`
+- `Reto Wenger.md`
+- `Mirjam Kessler.md`
+- `Jonas Freiburghaus.md`

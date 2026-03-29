@@ -21,3 +21,17 @@ A maintenance worker reports forged service credentials and missing access recor
 
 ## Possible Finale
 A vertical showdown in or around the `Zytglogge`, with bells, gears, crowds, and terrible police coordination all going wrong at once.
+
+## Act Structure
+
+### Act 1
+`The Mercenary` studies access points, maintenance routines, and crowd flow around the `Zytglogge` and nearby arcades.
+
+### Act 2
+He gathers forged service access, climbing tools, and technical gear that could also fit several other Bern Old Town operations.
+
+### Act 3
+He secures timed entry to the tower and stages the final mechanical interference that reveals the `Zytglogge` as the intended target.
+
+### Act 4
+The group confronts him during the sabotage attempt in and around the `Zytglogge`.
